@@ -1,0 +1,8 @@
+# goland IDE
+.idea
+
+# dependecies
+vendor/
+
+# test folder
+cmd/test*
